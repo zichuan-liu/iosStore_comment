@@ -1,2 +1,3 @@
 # iosStore_comment
 爬取美服ios应用商城热门app的全部评论
+数据清洗尚有问题，第一次提交GitHub请多指教
